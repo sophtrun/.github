@@ -9,7 +9,7 @@ SophTRun, temel yetkinliği olarak gördüğü "yapay zeka, görüntü işleme v
 
 
 
-![AreaiONX](images/areaionx_logo.jpg)
+![AreaiONX](images/areaionx_logo.png)
 # AreaiONX
 Yapay zeka destekli görüntü işleme sistemiyle sevdiklerinizi ve değer verdiğiniz alanları koruma" misyonuyla oluşturulmuş ürünümüz "hayal etmekle" başladı. Ürünümüze isim koyarken amacımızı anlatsın istedik.
 
