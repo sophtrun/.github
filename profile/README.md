@@ -1,4 +1,4 @@
-![SOPHTRUN: Kurumsal Değer Yaratma Eşlikçisi](images/sophtrun_logo.jpg)
+![SOPHTRUN: Kurumsal Değer Yaratma Eşlikçisi](../images/sophtrun_logo.jpg)
 
 # SOPHTRUN: Kurumsal Değer Yaratma Eşlikçisi.
 
